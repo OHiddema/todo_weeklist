@@ -2,7 +2,8 @@
   background-color: lightgray;
 
   /* trick to create space between items (setting a margin fails) */
-  border: 10px solid white;
+  /* use same color as backgroundcolor */
+  border: 10px solid lightblue;
 }
 
 .jumbotron {
@@ -11,4 +12,8 @@
 
 .fas {
   margin-right: 5px;
+}
+
+body {
+  background-color: lightblue;
 }
