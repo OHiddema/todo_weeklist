@@ -1,6 +1,8 @@
 .card {
   background-color: lightgray;
-  border: 1px solid black;
+
+  /* trick to create space between items (setting a margin fails) */
+  border: 10px solid white;
 }
 
 .jumbotron {
