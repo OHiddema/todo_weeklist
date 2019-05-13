@@ -1,0 +1,8 @@
+.card {
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+.jumbotron {
+  padding: 10px;
+}
