@@ -17,3 +17,18 @@
 body {
   background-color: lightblue;
 }
+
+/* ---------------------------------------------- */
+
+.form-control {
+  width: 66%;
+}
+
+.btn-primary {
+  width: 33%;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
